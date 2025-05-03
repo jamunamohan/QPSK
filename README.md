@@ -6,7 +6,7 @@ Write a Python program for the modulation and demodulation of QPSK.
 
 # Tools required:
 
-Matlab/Simulink or Python
+Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
 
 # Program:
 ```
@@ -93,7 +93,5 @@ plt.show()
 
 # Results:
 
-QPSK sends 2 bits per symbol using four phase angles, making it bandwidth-efficient.
-It shows low bit error rate (BER) when the signal is strong, even in noisy conditions.
-The constellation diagram has 4 points, which scatter slightly with noise.
+Thus The QPSK (Quadratic Phase Shift Keying) is performed using python.
 
