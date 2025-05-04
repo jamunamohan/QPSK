@@ -93,6 +93,10 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/93f0a78a-a732-4d27-afa2-e2d1088f60f9)
 
+# Hardware Waveform Output:
+
+![Uploading WhatsApp Image 2025-05-04 at 15.34.38_c33a9ec0.jpg…]()
+
 # Results:
 
 Thus The QPSK (Quadratic Phase Shift Keying) is performed using python.
