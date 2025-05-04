@@ -95,7 +95,7 @@ plt.show()
 
 # Hardware Waveform Output:
 
-![Uploading WhatsApp Image 2025-05-04 at 15.34.38_c33a9ec0.jpg…]()
+![WhatsApp Image 2025-05-04 at 15 34 38_f6371459](https://github.com/user-attachments/assets/bcbbe02d-b581-4602-9150-e3c406bce04c)
 
 # Results:
 
